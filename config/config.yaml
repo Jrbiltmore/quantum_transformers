@@ -1,0 +1,12 @@
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  handlers: [console, file]
+
+quantum:
+  device: default.qubit
+  wires: 2
+
+classical:
+  data_size: 100
+# END

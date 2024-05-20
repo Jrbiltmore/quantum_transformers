@@ -1,0 +1,6 @@
+pennylane
+qiskit
+cirq
+numpy
+scipy
+pytest
